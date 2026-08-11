@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Nagulan24/leetcode-solutions/tree/master/0050-powx-n) |
+| [2235-add-two-integers](https://github.com/Nagulan24/leetcode-solutions/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
